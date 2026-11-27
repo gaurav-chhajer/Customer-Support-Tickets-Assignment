@@ -1,14 +1,6 @@
 ﻿# Part B1 - Evaluation of LLM Summaries
 
-I used a 1-5 rubric to compare each LLM summary with its reference summary. The focus is on meaning: does it describe the right product and problem, keep the important context, and avoid unsupported claims? Different wording is fine if the meaning stays the same.
-
-| Score | Meaning |
-|-------|---------|
-| 5 | Keeps all key facts without adding unsupported claims. |
-| 4 | Keeps the main facts, with a small loss of precision or a minor unsupported addition. |
-| 3 | Describes the problem correctly but leaves out one important detail. |
-| 2 | Is broadly relevant but too vague, leaving out multiple important details. |
-| 1 | Misrepresents the main problem or is unrelated to the reference. |
+I used a 1-5 rubric to compare each LLM summary with its reference summary.
 
 ## Scores and reasoning
 
